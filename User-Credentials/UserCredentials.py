@@ -10,6 +10,6 @@ Testnet exchange = test.deribit.com
 """
 
 #This is your "Client Id" and must be a string type.
-Client_Id = "mmMgHOM6"
+Client_Id = "Sr4loLXC"
 #This is your "Client Secret" and must be a string type.
-Client_Secret = "lVpOFyThTkjDxCjidd38i8a7HBiAuHy26iM2D0gU5ng"
+Client_Secret = "QDCfSEbZMCjcqfzbVPvdcBuhJ0F-Krawgbf55tz1AxE"
