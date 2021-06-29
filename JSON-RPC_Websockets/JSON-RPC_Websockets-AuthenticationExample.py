@@ -11,7 +11,7 @@ import secrets
 import websocket
 
 # imported from project
-sys.path.append('/home/elliotp/dev/deribit/API-Guide/Deribit-API_Authentication-Examples/User-Credentials')                   # noqa: E501
+sys.path.append('C:/Users/4ser/Desktop/User-Credentials')                   # noqa: E501
 from UserCredentials import Client_Id, Client_Secret                                                                          # noqa: E402 E501
 
 class DeribitAPIAccessScope:
